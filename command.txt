@@ -1,0 +1,13 @@
+command
+takeoff
+delay 2
+streamon
+delay 1
+cw 120
+forward 100
+cw 120
+forward 100
+cw 120
+forward 100
+delay 2
+land
